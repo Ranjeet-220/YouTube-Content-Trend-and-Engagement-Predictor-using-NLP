@@ -7,5 +7,6 @@ nltk
 textblob
 joblib
 gunicorn
-
 kagglehub[pandas-datasets]
+python-dotenv
+requests
