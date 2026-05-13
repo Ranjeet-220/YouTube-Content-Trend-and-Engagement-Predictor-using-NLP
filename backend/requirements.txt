@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+scikit-learn
+pandas
+numpy
+nltk
+textblob
+joblib
+gunicorn
+
+kagglehub[pandas-datasets]
